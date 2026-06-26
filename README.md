@@ -1,8 +1,8 @@
-Clustering Customer Shopping Data
-Project UAS - Data Mining
-Nama: Feni Destianan
-NIM: 1224160022
-Kelas: SI 24 P SIM-1
+Clustering Customer Shopping Data<br>
+Project UAS - Data Mining<br>
+Nama: Feni Destianana<br>
+NIM: 1224160022<br>
+Kelas: SI 24 P SIM-1<br>
 
 📌 Deskripsi Proyek
 Proyek ini bertujuan untuk mengelompokkan pelanggan berdasarkan perilaku belanja mereka di pusat perbelanjaan menggunakan algoritma K-Means Clustering. Dataset yang digunakan adalah data transaksi pelanggan dari berbagai pusat perbelanjaan di Turki yang diperoleh dari sumber data publik.
@@ -27,7 +27,7 @@ Jupyter Notebook sebagai lingkungan pengembangan
 
 🔗 Tautan Penting<br>
 Google Sites (Portofolio):
-https://sites.google.com/global.ac.id/projectportofolio?usp=sharing
+https://sites.google.com/global.ac.id/projectportofolio?usp=sharing<br>
 Video Presentasi (YouTube):
 https://youtu.be/fTRTpckYeDw?si=H67WNkUsDQH0wpNJ
 
