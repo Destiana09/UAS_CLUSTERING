@@ -25,7 +25,7 @@ PCA (Reduksi dimensi untuk visualisasi)
 silhouette_score (Evaluasi kualitas cluster)
 Jupyter Notebook sebagai lingkungan pengembangan
 
-🔗 Tautan Penting
+🔗 Tautan Penting<br>
 Google Sites (Portofolio):
 https://sites.google.com/global.ac.id/projectportofolio?usp=sharing
 Video Presentasi (YouTube):
